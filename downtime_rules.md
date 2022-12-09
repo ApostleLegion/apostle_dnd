@@ -2,7 +2,7 @@
  We use a modified version of [Zanathar's Guide to Everything](https://www.dndbeyond.com/sources/xgte)'s downtime. 
  
  ## Modifications
- Activities that are changed more will be noted below.
+ Activities that are changed will be noted below.
  - In our system all rewards and prices are dropped a coin value. (Gold -> Silver) 
  - The major change from the downtime of Zanathar's to Apostle's downtime is the Carousing activity. 
  - We have also created the bounty hunting activity and travel activity that will be outlined below.

@@ -1,1 +1,4 @@
 # Western Entrance of Ember
+[Fire Stone District](Fire%20Stone%20District%20Overview.md)
+
+The west side of [Ember](../Ember%20Overview.md) is the largest and most open side of the city. The cave ceiling rises to around 600 feet above the tallest towers of [Ember](../Ember%20Overview.md). This openness allowed the builders of the western walls to fortify them more and create them taller than the walls barring entrance from other sides of the city. These walls soar up 60 feet and the towers atop go another 100 feet up. The vantage point from the western towers can see almost all of [Ember](../Ember%20Overview.md). Surrounding the outside walls are many traps and defensive structures long abandoned leading into old [Fire Stone District](Fire%20Stone%20District%20Overview.md).

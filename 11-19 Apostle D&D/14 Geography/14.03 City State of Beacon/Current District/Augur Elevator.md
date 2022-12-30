@@ -1,1 +1,6 @@
 # Augur Elevator
+[Current District](Current%20District%20Overview.md)
+
+The Silver Ring that sits around the open expanse that descends down past the Bronze Ring to the Undercity has been hand polished by so many hands that it looks near Platinum. Nearly. Silver strands and thick silver beams twist and turn through the expanse. Should one look down, there is an interesting, if somewhat confusing, symbol that is made looking down from the Silver Ring to the Bronze Ring. Connecting the 6 elevators, each elevator doorway houses a silvered Crest of one of the 6 families of [Beacon](../Beacon%20Overview.md). A glass tube rises above and below each metal platform that sits behind the doorways. 2 of these elevators rise up toward the Gold Ring, while another 2 drop down to the Bronze Ring. The remaining 2 elevators cannot be opened.
+
+It isn't a curious sight to see young adults hanging around the Silver Ring, blowing smoke down toward the Bronze Ring. Tiny flashes of lightning are common place running around and across silvered cables the guide the energy across the [Current District](Current%20District%20Overview.md).

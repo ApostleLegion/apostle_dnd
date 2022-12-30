@@ -1,1 +1,6 @@
 # Augur Elevator
+[Surge District](Surge%20District%20Overview.md)
+
+The Golden Rings of the Uppercity lie both above and below the people of this District. Inlaid in a floor of polished marble, a ring of gold surrounds a circular glass window further inlaid with gold the twists and turns that, at first glance, is confusing. This Gold Ring ties each of the elevator doors together. Each silvered door in a bronze casing has the Crest of one of the 6 families on the door in gold. Of these 6 elevators, 2 descend down to the Silver Ring. The other 4, if someone from the Gold Ring has the proper support from one of the 6 families, can take it up to the small upper platform.
+
+This second platform, above the glass floor and the first of the Gold Rings, has a circular expanse that is protected by a guardrail of gold. The Second Golden Ring of the Uppercity. Very few have the support or prestige to come to this second ring,  but it is only by looking down from this second ring can the [Beacon](../Beacon%20Overview.md) of the city can be seen. From this view of the second Gold Ring can the [Beacon](../Beacon%20Overview.md) be seen made of Gold, Silver, and Bronze, seemingly inlaid in the black stone of the Undercity.

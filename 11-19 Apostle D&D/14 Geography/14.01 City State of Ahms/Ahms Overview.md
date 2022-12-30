@@ -1,6 +1,8 @@
 # The City State of Ahms
 [The Infernal Lands](../Geography%20Overview.md)
 
+The city of magical light and plentiful food, for those that can pay for it. This city is considered the capital of the underground network of tunnels that people call the [Infernal Lands](../Geography%20Overview.md). Its wealthy aristocratic hierarchy own the lands that produce food for the city, and by doing so own the city. This is the most wealthy and beautiful city in the system of caves.
+
 The City State of Ahms is a light and airy city. 
 
 With artificial light and good soil, Ahms is the food distributor for the [Infernal Lands](../Geography%20Overview.md). With large plantations, beautiful homes, and clean districts, Ahms radiates wealth. With Its prestigious occupants, most are unaware of the grueling secrets that lie inside the beautiful city.

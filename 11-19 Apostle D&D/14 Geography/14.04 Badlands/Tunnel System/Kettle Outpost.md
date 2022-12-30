@@ -1,4 +1,6 @@
 # Kettle Outpost
+[Tunnel System](Tunnel%20System%20Overview.md)
+
 The pitter patter of dripping water softly echoes in a small section of the tunnel in between Beacon and Ember. The source of these sounds is a nondescript hole in the wall. The wealthy and the well-informed know that this humble entrance leads to an exquisite retreat: a hot spring and matching inn.
 
 After a short, downward walk through the hole in the wall, one would reach a small cavern. On one side is a slide lit by a string of electric lights that leads down and down. Next to it is a neat stack of sleds with a sign saying, "For your convenience." On the other side of the cavern is a bronze, cylindrical elevator with two buttons to go up and down.

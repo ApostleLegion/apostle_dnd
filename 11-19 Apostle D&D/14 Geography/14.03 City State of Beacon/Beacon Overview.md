@@ -1,8 +1,8 @@
 # The City State of Beacon
-[Surge District](./Surge%20District/Surge%20District%20Overview.md)
-[Current District](./Current%20District/Current%20District%20Overview.md)
-[Flickering District](./Flickering%20District/Flickering%20District%20Overview.md)
-[Cimmerian City](./Cimmerian%20City/Cimmerian%20City%20Overview.md)
+[Surge District](./Surge%20District/Surge%20District%20Overview.md)<br/>
+[Current District](./Current%20District/Current%20District%20Overview.md)<br/>
+[Flickering District](./Flickering%20District/Flickering%20District%20Overview.md)<br/>
+[Cimmerian City](./Cimmerian%20City/Cimmerian%20City%20Overview.md)<br/>
 
 The City State of Beacon is a machine powerhouse of the [Infernal Lands]().
 

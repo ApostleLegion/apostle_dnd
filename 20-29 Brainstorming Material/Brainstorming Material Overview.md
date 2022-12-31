@@ -1,5 +1,5 @@
 # Brainstorming Material
-[Home](../11%20General/11.01%20Server%20Introduction.md)
+[Code Stuff Overview](../../11-19%20Apostle%20D%26D/11%20General/11.01%20Server%20Introduction.md)
 
 This is stuff that is currently in discussion but not yet released to the server for use.
 

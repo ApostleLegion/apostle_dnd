@@ -5,6 +5,8 @@ The Fire Stone District of [Ember](../Ember%20Overview.md) is where the blacksmi
 
 ![Fire Stone District Map](https://media.discordapp.net/attachments/1005932257862766733/1034533561535053926/City_State_of_Ember_Fire_Stone_District.jpg?width=625&height=593)
 
-[Frieborn Manor](Frieborn%20Manor.md)<br/>
-[Old Fort Firestone](Old%20Fort%20Firestone.md)<br/>
-[Western Entrance of Ember](Western%20Entrance%20of%20Ember.md)<br/>
+## Locations
+- [Frieborn Manor](Frieborn%20Manor.md)
+- [Old Fort Firestone](Old%20Fort%20Firestone.md)
+- [Western Entrance of Ember](Western%20Entrance%20of%20Ember.md)
+- [Firestone Cemetery](Firestone%20Cemetery.md)

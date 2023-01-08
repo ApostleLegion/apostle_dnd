@@ -6,3 +6,4 @@ Past the farms and lights the cavern continues into dead grassy hills and stones
 ## Locations
 - [Maltog's Hideaway](Maltog's%20Hideaway.md)
 - [West Station](West%20Station.md)
+- [Village Half Nescros](Village%20Half%20Nescros.md)

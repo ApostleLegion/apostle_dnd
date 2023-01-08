@@ -10,3 +10,4 @@ In lower [Ahms](../Ahms%20Overview.md), the workers of the farmers can be found.
 - [Downtown Cobblebrick](Downtown%20Cobblebrick.md)
 - [Fight Club](Fight%20Club.md)
 - [Main Entrance](Main%20Entrance.md)
+- [Warehouse Haven](Warehouse%20Haven.md)

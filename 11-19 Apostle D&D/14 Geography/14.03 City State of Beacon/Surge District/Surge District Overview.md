@@ -9,3 +9,4 @@ The Top layer of the City State of Beacon is known as the Surge District. Named 
 - [The Balcony](The%20Balcony.md)
 - [Surge Gate](Surge%20Gate.md)
 - [Flickering Corridor](Flickering%20Corridor.md)
+- [Selrant's Tower](Selrant's%20Tower.md)

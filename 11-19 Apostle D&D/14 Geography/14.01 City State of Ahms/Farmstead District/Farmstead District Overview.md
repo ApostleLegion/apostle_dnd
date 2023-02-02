@@ -11,3 +11,4 @@ Along the outside of the [Agribusiness District](../Agribusiness%20District/Agri
 - [The Ivy Water Wheel](The%20Ivy%20Water%20Wheel.md)
 - [The Mushroom Meadow](The%20Mushroom%20Meadow.md)
 - [Trinity Vineyard](Trinity%20Vineyard.md)
+- [Red River Grange](Red%20River%20Grange.md)

@@ -8,3 +8,4 @@ This page of the GitHub will have all the resources DMs use to facilitate quests
 - Recipes: The `!hoard <Pavg>` command also has a chance to roll magic items and potions. In this case, any item rolled is given out to players of the quest as a recipe in which they can [Craft](https://github.com/ApostleLegion/apostle_dnd/blob/DM-main/11-19%20Apostle%20D&D/13%20Downtime/13.03%20Homebrew%20Downtime%20Rules.md#crafting) the item they would recieve. If the item has options, the DM is responsible to decide which option the item will use. Duplicate recipes are not possible, so if a recipe is rolled twice only a single recipe is given out.
 
 ### Downtime Resources
+[Baseline of Downtime Operations; Xanathar's](http://anyflip.com/dudv/fqwq)
